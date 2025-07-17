@@ -1,8 +1,8 @@
 # AquaLink
 AquaLink is a water supply tracker app.
-It's a multi-user app with both admins and users rool.
+It's a multi-user app with both admins and users role.
 App is build using a cross-platform Flutter.
-App is coonected to the Firebase.
+App is connected to the Firebase.
 I tried to follow the MVVM architecture for this app as much as possible.
 All the CRUD operations had been used in it.
 Admin can see how many liters of water to a specific user had been supplied, how much the total cost of water had been supplied till yet, he can delete any order or mark any order as suplied.
